@@ -1,0 +1,54 @@
+
+*{
+	background: #1EE3D1;
+}
+#ffff {
+	text-align: center;
+	
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	height: 60px;
+	border: 2px solid black;
+}
+.conteyner {
+	width: 22%;
+	height: 700px;
+	float: left;
+}
+.tab {
+	background: green;
+	border: 1px solid black;
+	width: 398px;
+	height: 60px;
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+div {
+	box-sizing: border-box;
+}
+.tab-body {
+	width: 70%;
+	float: left;
+	display: none;
+	padding: 20px;
+}
+.active {
+	background: #1EE3D1;
+}
+.conteyner {
+	cursor:pointer;
+}
+.tab-body {
+	font-size: 22px;
+}
+iframe{
+    float: left;
+    margin: 10px;
+}
+img{
+    float: left;
+    margin: 10px;
+}
